@@ -23,7 +23,7 @@
 
 Use API from [REQ|RES](https://reqres.in/)
 
-## Push source code to [GitHub](https://github.com/)
+### Push source code to [GitHub](https://github.com/)
 
 ## Recommend
 
