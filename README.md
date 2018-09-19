@@ -12,6 +12,8 @@
 
 > Update User ```[PUT/PATCH] /api/users/2```
 
+> Delete User ```[Delete] /api/users/2```
+
 > List users ```[GET] /api/users?page=2```
 
 > Single user ```[GET] /api/users/2```
